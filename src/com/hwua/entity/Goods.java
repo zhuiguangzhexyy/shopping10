@@ -11,6 +11,8 @@ public class Goods {
     private Integer goods_type;
 
     public Goods() {
+
+
     }
 
     public Goods(Integer goods_id, String goods_name, Double goods_price, String goods_info, Integer goods_count, Integer goods_number, String goods_img, Integer goods_type) {
